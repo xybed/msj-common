@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.msj</groupId>
-    <artifactId>common</artifactId>
+    <artifactId>msj-common</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>common</name>
+    <name>msj-common</name>
     <description>meishijia common library</description>
 
     <properties>
@@ -23,12 +23,6 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.44</version>
-        </dependency>
-        <!--log4j-->
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
